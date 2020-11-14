@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1daea699-c7c5-4bb7-8883-1dbed314670a" name="Default Changelist" comment="" />
+    <list default="true" id="1daea699-c7c5-4bb7-8883-1dbed314670a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605340434796</updated>
       <workItem from="1605340435913" duration="1772000" />
-      <workItem from="1605344072997" duration="858000" />
+      <workItem from="1605344072997" duration="2033000" />
     </task>
     <servers />
   </component>
@@ -42,5 +46,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="752" y="397" key="#Scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1605344687520" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605346031603">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605346031603" />
   </component>
 </project>
