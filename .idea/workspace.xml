@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daea699-c7c5-4bb7-8883-1dbed314670a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hamburger/burgerFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamburger/burger_calc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,8 @@
       <workItem from="1605340435913" duration="1772000" />
       <workItem from="1605344072997" duration="2601000" />
       <workItem from="1605358915735" duration="2340000" />
+      <workItem from="1605371114698" duration="1155000" />
+      <workItem from="1605607901568" duration="370000" />
     </task>
     <servers />
   </component>
@@ -45,6 +49,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="752" y="397" key="#Scopes/0.0.1920.1080@0.0.1920.1080" timestamp="1605344687520" />
+    <state x="748" y="294" key="FileChooserDialogImpl" timestamp="1605372574336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605372574336" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605346031603">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
